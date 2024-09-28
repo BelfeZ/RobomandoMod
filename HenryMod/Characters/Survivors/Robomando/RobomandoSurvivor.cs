@@ -341,7 +341,7 @@ namespace RobomandoMod.Survivors.Robomando
                 activationStateMachineName = "Body", interruptPriority = EntityStates.InterruptPriority.Skill,
 
                 baseMaxStock = 1,
-                baseRechargeInterval = 10f,
+                baseRechargeInterval = 90f,
                 beginSkillCooldownOnSkillEnd = true,
                 mustKeyPress = false,
             });
